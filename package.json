@@ -1,0 +1,14 @@
+{
+  "name": "forgotten-stove-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^12.0.0",
+    "twilio": "^5.0.0",
+    "resend": "^3.0.0"
+  }
+}
